@@ -1,3 +1,17 @@
+# reveal.js forked by kaosf
+
+This repository is created by [reveal.js 2.5.0 archive](https://github.com/hakimel/reveal.js/releases/tag/2.5.0) with following commands.
+
+```sh
+wget https://github.com/hakimel/reveal.js/archive/2.5.0.zip
+unzip 2.5.0.zip
+mv reveal.js-2.5.0/* .
+mv reveal.js-2.5.0/.gitignore .
+mv reveal.js-2.5.0/.travis.yml .
+rm -f 2.5.0.zip
+rmdir reveal.js-2.5.0
+```
+
 # reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.png?branch=master)](https://travis-ci.org/hakimel/reveal.js)
 
 A framework for easily creating beautiful presentations using HTML. [Check out the live demo](http://lab.hakim.se/reveal-js/).
