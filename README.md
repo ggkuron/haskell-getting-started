@@ -1,5 +1,7 @@
 # reveal.js forked by kaosf
 
+Version 2.5.0.0
+
 This repository is created by [reveal.js 2.5.0 archive](https://github.com/hakimel/reveal.js/releases/tag/2.5.0) with following commands.
 
 ```sh
